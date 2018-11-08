@@ -1,6 +1,7 @@
 # 走向自然语言语义代码搜索
 ```bash
-title: 走向自然语言语义代码搜索
+title-zh: 走向自然语言语义代码搜索
+title-en: Towards Natural Language Semantic Code Search
 date: 2018-11-08 11:57:02
 tags:
 categories:

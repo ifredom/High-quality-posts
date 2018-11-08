@@ -15,3 +15,11 @@ categories: 计算机
 ```
 
 > 文章按照日期进行存放，用于记录每一个日子所接受到的信息
+
+### tags已有分类
+
+--
+
+### categories已有分类
+
+categories(分类): IT趣闻
